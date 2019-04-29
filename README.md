@@ -1,4 +1,4 @@
-## Standalone JBoss Deployment
+## Standalone JBoss Deployment [![Build Status](https://travis-ci.org/spy86/ansible-jboss-standalone.svg?branch=master)](https://travis-ci.org/spy86/ansible-jboss-standalone)
 
 - Requires Ansible 1.2 or newer
 - Expects CentOS/RHEL 6 or 7 hosts
