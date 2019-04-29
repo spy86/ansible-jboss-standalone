@@ -1,0 +1,11 @@
+---
+- hosts: localhost
+  connection: local
+  become: true
+  vars:
+    - username: testusername
+    - hashed_password: somesalt
+  roles:
+    - {role: ../roles/java-app}
+    - {role: ../roles/jboss-standalone}
+  
