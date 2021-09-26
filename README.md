@@ -1,4 +1,6 @@
-## Standalone JBoss Deployment [![Build Status](https://travis-ci.org/spy86/ansible-jboss-standalone.svg?branch=master)](https://travis-ci.org/spy86/ansible-jboss-standalone)
+## Standalone JBoss Deployment 
+
+[![AnsibleTest](https://github.com/spy86/ansible-jboss-standalone/actions/workflows/main.yml/badge.svg)](https://github.com/spy86/ansible-jboss-standalone/actions/workflows/main.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - Requires Ansible 1.2 or newer
 - Expects CentOS/RHEL 6 or 7 hosts
